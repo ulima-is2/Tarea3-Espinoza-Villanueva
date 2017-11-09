@@ -1,4 +1,4 @@
-##### Nodos 
+## Nodos 
 
 Cliente: manejo de los clientes(Cine planeta, Cine Stark, CinePapaya)
 
@@ -14,28 +14,28 @@ ocurierron y van a ocurrir guardando la fecha y hora en que se genero
 ademas tambien se guardara el nombre de la persona que realizo la transaccion
 al igual que el numero de entradas que esta persona compro
 
-*BD: Mantiene toda informacion de Cine Planeta
-*BD: Mantiene toda informacion de Cine Stark
-*BD: Mantiene toda informacion de Cine Papaya
+* BD: Mantiene toda informacion de Cine Planeta
+* BD: Mantiene toda informacion de Cine Stark
+* BD: Mantiene toda informacion de Cine Papaya
 
-*Funciones:se utiliza para ver la informacion las funciones
-*Compra:Se utiliza para ver la informacion de las compras 
-*Cine: Se utiliza para ver la informacion de los cines disponibles
-*Ticket: se utiliza para ver la informacion de los tickets
-*Cartelera: utilizado para ver las peliculas disponibles en todos los cines
-*Pelicula: utilizado para ver las peliculas disponibles
-*Analitica: servicio de analitica de la empresa
-*Server BI: Motor OLAP para analitica
+* Funciones:se utiliza para ver la informacion las funciones
+* Compra:Se utiliza para ver la informacion de las compras 
+* Cine: Se utiliza para ver la informacion de los cines disponibles
+* Ticket: se utiliza para ver la informacion de los tickets
+* Cartelera: utilizado para ver las peliculas disponibles en todos los cines
+* Pelicula: utilizado para ver las peliculas disponibles
+* Analitica: servicio de analitica de la empresa
+* Server BI: Motor OLAP para analitica
 
 ---
 
-##### Componentes
+## Componentes
 
-Todos los Apis se dividiran en comandos y consultas siguiendo CQSR
-*Api funcion
-*Api Compra
-*Api Cine
-*Api Ticket
-*Api Cartelera
-*Api Pelicula
-*Api Analitica
+**Todos los Apis se dividiran en comandos y consultas siguiendo CQSR**
+* Api funcion
+* Api Compra
+* Api Cine
+* Api Ticket
+* Api Cartelera
+* Api Pelicula
+* Api Analitica
